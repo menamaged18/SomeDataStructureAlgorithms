@@ -1,0 +1,10 @@
+Linked List
+1. Combine Nodes Between Zeros (George)
+2. Merge K sorted linked lists (Filopater)
+Stack
+1. Convert the infix expression to postfix expression (Mina)
+2. Longest Valid Parentheses (George)
+Queue
+1. Generate Binary Numbers from 1 to n (Filopater)
+2. Implement a stack (Mina)
+3. Sorting a Queue (George)
